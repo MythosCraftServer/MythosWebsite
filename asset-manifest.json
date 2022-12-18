@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a16d04f8.css",
-    "main.js": "/static/js/main.9a2d3d06.js",
-    "static/js/787.d9f45284.chunk.js": "/static/js/787.d9f45284.chunk.js",
+    "main.css": "/static/css/main.8d6aec59.css",
+    "main.js": "/static/js/main.c6d9740b.js",
     "static/media/olympus.png": "/static/media/olympus.430242c4115c3dc70324.png",
     "static/media/front.png": "/static/media/front.db4afaf6ecdf76936ced.png",
-    "static/media/instagram.png": "/static/media/instagram.86e3c09c02cb3ce3cbe4.png",
-    "static/media/underground.png": "/static/media/underground.46601f49a30f7f87e319.png",
     "static/media/hades.png": "/static/media/hades.abb75200d75f9e4efb54.png",
+    "static/media/olympus1.png": "/static/media/olympus1.60bd19132fc9d9fdb963.png",
     "static/media/mythos.png": "/static/media/mythos.dce079f3721e4214dd83.png",
-    "static/media/tiktok.png": "/static/media/tiktok.065ae0029dfa04d445a9.png",
-    "static/media/reddit.png": "/static/media/reddit.93d74d4f97b55343c0b7.png",
+    "static/media/sadfinn.png": "/static/media/sadfinn.792c8c90444aea8f70eb.png",
+    "static/media/finn2.png": "/static/media/finn2.0f5627deaccbed61a3ec.png",
+    "static/media/ares2.png": "/static/media/ares2.2fa0e9dd851f39789aea.png",
+    "static/media/tobble.png": "/static/media/tobble.9e0690e88f4a84c72353.png",
     "static/media/discord.png": "/static/media/discord.eab5da4d8b7cfc2b1504.png",
     "index.html": "/index.html",
-    "main.a16d04f8.css.map": "/static/css/main.a16d04f8.css.map",
-    "main.9a2d3d06.js.map": "/static/js/main.9a2d3d06.js.map",
-    "787.d9f45284.chunk.js.map": "/static/js/787.d9f45284.chunk.js.map"
+    "main.8d6aec59.css.map": "/static/css/main.8d6aec59.css.map",
+    "main.c6d9740b.js.map": "/static/js/main.c6d9740b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a16d04f8.css",
-    "static/js/main.9a2d3d06.js"
+    "static/css/main.8d6aec59.css",
+    "static/js/main.c6d9740b.js"
   ]
 }
